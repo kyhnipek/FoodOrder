@@ -1,0 +1,1 @@
+namespace WebApi.UnitTests.Application.CourierOperations.GetCourierDetail;
